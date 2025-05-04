@@ -1,4 +1,4 @@
-# Token Interface
+# Nihon-Network
 
 A Next.js application for interacting with ERC20 tokens on the Ethereum blockchain.
 
